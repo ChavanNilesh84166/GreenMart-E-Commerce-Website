@@ -1,0 +1,27 @@
+/* src/App.css or your preferred CSS file */
+
+/* Secondary Navbar */
+.secondary-navbar {
+    background-color: #f8f9fa;
+    display: flex;
+    justify-content: center;
+    padding: 10px 0;
+    width: 100%;
+}
+
+.nav-button {
+    padding: 10px 20px;
+    margin: 0 10px;
+    font-size: 1em;
+    text-decoration: none;
+    color: #333;
+    background-color: #e9ecef;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.nav-button:hover {
+    background-color: #cfd8dc;
+}

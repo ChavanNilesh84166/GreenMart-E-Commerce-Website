@@ -1,0 +1,13 @@
+.product-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 20px;
+  }
+  
+  .product-list .product-card {
+    flex: 1 1 calc(25% - 40px);
+    margin: 20px;
+    box-sizing: border-box;
+  }
+  

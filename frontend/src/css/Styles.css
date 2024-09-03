@@ -1,0 +1,17 @@
+/* styles.css */
+.centered-div {
+    margin: 0 auto;
+    width: 900px; /* Optional width for the div */
+    border: 10px solid #ccc;
+    padding: 300px; /* Optional padding for the div */
+}
+
+.text-centered-div {
+    border: 1px solid #ddd;
+    padding: 10px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    
+    transform: translate(-50%, -50%);
+}

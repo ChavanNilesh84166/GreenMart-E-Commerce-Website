@@ -1,0 +1,4 @@
+#myInput {
+  font-size: 58px;  /* Set your desired font size */
+  padding: 30px;  /* Optional padding for better readability */
+}

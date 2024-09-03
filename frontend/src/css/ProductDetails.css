@@ -1,0 +1,44 @@
+.btn-danger {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem; /* Padding for top/bottom and left/right */
+    font-size: 14px; /* Font size */
+    margin-right: 1rem; /* Increased right margin for more space between buttons */
+  }
+  
+  .btn-success {
+    background-color: green;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem; /* Padding for top/bottom and left/right */
+    font-size: 14px; /* Font size */
+  }
+  
+  .mt-5 {
+    margin-top: 3rem;
+  }
+  
+  .d-flex {
+    display: flex;
+  }
+  
+  .justify-content-between {
+    justify-content: space-between;
+  }
+  
+  .btn-container {
+    margin-top: 1rem; /* Adds space above the button container */
+    gap: 1rem; /* Adds space between flex items */
+  }
+  
+  .btn {
+    padding: 0.5rem 1rem; /* Adjust button padding */
+    font-size: 14px; /* Adjust font size */
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  

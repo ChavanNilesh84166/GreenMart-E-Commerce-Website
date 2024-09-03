@@ -1,0 +1,30 @@
+/* Login.css */
+
+body {
+    background-color: #f8f9fa;
+  }
+  
+  .card {
+    border-radius: 10px;
+  }
+  
+  .card .form-label {
+    font-weight: 500;
+  }
+  
+  .card .btn {
+    border-radius: 5px;
+  }
+  
+  .text-center {
+    color: #020202;
+  }
+  .home-button {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+
+.home-button .btn {
+  padding: 8px 16px;
+}

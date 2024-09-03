@@ -1,0 +1,58 @@
+/* Custom styles for the navbar to resemble Amazon */
+.navbar {
+  background-color: #131921; /* Dark background for the navbar */
+  padding: 0 15px; /* Padding for spacing */
+  height: 80px; /* Increased height for the navbar */
+}
+
+.navbar .navbar-brand {
+  color: #f0c14b; /* Yellow color for the brand text */
+  font-size: 1.8rem; /* Adjust the font size as needed */
+  font-weight: bold;
+  display: flex;
+  align-items: center; /* Align items vertically */
+}
+
+.navbar .nav-link {
+  color: #ffffff; /* White text color for links */
+  font-size: 1rem; /* Font size for links */
+  margin-left: 15px; /* Space between nav items */
+}
+
+.navbar .nav-link:hover {
+  color: #f0c14b; /* Amazon's signature yellow for hover effect */
+}
+
+.navbar .form-control {
+  color: #333; /* Dark text color for the input */
+  background-color: #ffffff; /* White background color for the input */
+  border: 1px solid #ddd; /* Light grey border */
+  height: 40px; /* Increase the height of the search bar */
+  width: 300px; /* Adjust the width of the search bar */
+}
+
+.navbar .btn-outline-success {
+  color: #ffffff; /* White text color for buttons */
+  background-color: #f0c14b; /* Amazon's yellow background color */
+  border-color: #f0c14b; /* Yellow border color */
+  height: 40px; /* Match the height of the search bar */
+}
+
+.navbar .btn-outline-success:hover {
+  color: #131921; /* Dark text color on hover */
+  background-color: #e2a33a; /* Slightly darker yellow background on hover */
+  border-color: #e2a33a; /* Darker yellow border color on hover */
+}
+
+.navbar .navbar-nav {
+  display: flex;
+  align-items: center; /* Align items vertically */
+}
+
+.navbar .form-inline {
+  display: flex;
+  align-items: center; /* Align items vertically */
+  margin-left: auto; /* Align the form to the right */
+}
+
+

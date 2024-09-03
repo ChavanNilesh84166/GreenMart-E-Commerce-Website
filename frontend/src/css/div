@@ -1,0 +1,4 @@
+.colored-div {
+  background-color: rgb(41, 7, 34); /* Set your desired background color */
+  padding: 10px; /* Optional padding for the div */
+}

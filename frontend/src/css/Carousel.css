@@ -1,0 +1,22 @@
+/* Home.css */
+
+/* Adjust the margins and alignment for the carousel */
+.carousel-container {
+    margin: 0 auto; /* Center the carousel horizontally */
+    max-width: 1200px; /* Set a maximum width for the carousel */
+    padding: 0 15px; /* Add horizontal padding for better spacing */
+}
+
+/* Ensure the carousel takes full width within its container */
+.carousel-container .slick-slide img {
+    width: 100%;
+    height: auto;
+}
+
+/* Adjust the styling for the "TOP CATEGORIES" header */
+.text-center {
+    text-align: center;
+    color: #333; /* Optional: change text color for better visibility */
+}
+
+  
